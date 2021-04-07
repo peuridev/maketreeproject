@@ -13,6 +13,6 @@
 - 궁금한 점은 gka6884@naver.com으로 문의 부탁드립니다.
 
 ## 지금 바로 나무를 심어보기
-- 클릭 한번으로 나무심기 : https://maketree.netlify.app/
+- [클릭 한번으로 나무심기](https://maketree.netlify.app/)
 
 - 많은 홍보 부탁드립니다!
